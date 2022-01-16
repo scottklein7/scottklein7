@@ -8,9 +8,6 @@
 - 😍 [React]( https://reactjs.org/) is my favorite technology!  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
 <br/>  
 
 
