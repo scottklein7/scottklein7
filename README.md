@@ -1,3 +1,8 @@
+<div align="center">
+<img src="http://i.imgur.com/sOZ9jYG.gif" align="center" style="width: 100%" />
+</div>  
+  
+
 ### Whats upppp 👋
 
 ### My Name is Scott, I am a coding junkie 👨‍💻. I feel bleesed to be able to work with one of man's most powerful tools: software. I hope to leave this earth a better place, utilizing this amazing tool for the better!!
